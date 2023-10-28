@@ -49,8 +49,8 @@ cmake_ninja_workdir = /Users/maxboykin/CLionProjects/stroustrup/cmake-build-debu
 
 build cmake_object_order_depends_target_stroustrup: phony || CMakeFiles/stroustrup.dir
 
-build CMakeFiles/stroustrup.dir/8-structures-unions-enums/struct-date.cpp.o: CXX_COMPILER__stroustrup_unscanned_Debug /Users/maxboykin/CLionProjects/stroustrup/8-structures-unions-enums/struct-date.cpp || cmake_object_order_depends_target_stroustrup
-  DEP_FILE = CMakeFiles/stroustrup.dir/8-structures-unions-enums/struct-date.cpp.o.d
+build CMakeFiles/stroustrup.dir/8-structures-unions-enums/enum-season.cpp.o: CXX_COMPILER__stroustrup_unscanned_Debug /Users/maxboykin/CLionProjects/stroustrup/8-structures-unions-enums/enum-season.cpp || cmake_object_order_depends_target_stroustrup
+  DEP_FILE = CMakeFiles/stroustrup.dir/8-structures-unions-enums/enum-season.cpp.o.d
   FLAGS = -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/stroustrup.dir
   OBJECT_FILE_DIR = CMakeFiles/stroustrup.dir/8-structures-unions-enums
@@ -63,7 +63,7 @@ build CMakeFiles/stroustrup.dir/8-structures-unions-enums/struct-date.cpp.o: CXX
 #############################################
 # Link the executable stroustrup
 
-build stroustrup: CXX_EXECUTABLE_LINKER__stroustrup_Debug CMakeFiles/stroustrup.dir/8-structures-unions-enums/struct-date.cpp.o
+build stroustrup: CXX_EXECUTABLE_LINKER__stroustrup_Debug CMakeFiles/stroustrup.dir/8-structures-unions-enums/enum-season.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/stroustrup.dir
   POST_BUILD = :
