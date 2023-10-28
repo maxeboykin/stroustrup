@@ -58,3 +58,4 @@ Date_Struct* writeDateP(int month, int day, int year){
 void readDateP(Date_Struct *date){
     std::cout << "date month: " << date->month << "day: " << date->day << "year: " << date->year;
 }
+

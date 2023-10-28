@@ -1,0 +1,12 @@
+# ninja log v5
+5	902	1694234651474963484	CMakeFiles/stroustrup.dir/7-types-and-declarations/largest-smallest-values.cpp.o	3bc91dd0ea23ba7e
+1	119	1698523482543277564	build.ninja	43c9a8a64045c3ad
+0	879	1694231507462456789	CMakeFiles/stroustrup.dir/7-types-and-declarations/hello_world.cpp.o	c28b60acc5731231
+7	1017	1697687298877911506	CMakeFiles/stroustrup.dir/8-structures-unions-enums/define-struct.cpp.o	8d6c5c4166d712dc
+5	848	1694283507826691976	CMakeFiles/stroustrup.dir/7-types-and-declarations/alignments.cpp.o	8f23965436601e0d
+7	1010	1697732253800812218	CMakeFiles/stroustrup.dir/8-structures-unions-enums/struct-date.cpp.o	a19ed9a07092d8a3
+0	875	1694231507463272237	CMakeFiles/stroustrup.dir/main.cpp.o	2c2fd5479b2f142e
+6	1120	1697661878589805753	CMakeFiles/stroustrup.dir/7-pointers-arrays-references/beyond-bounds-array.cpp.o	9f3bbfe5fb223f73
+966	1069	1697739948268421255	stroustrup	45278e713afb1be4
+6	1009	1697659390511861877	CMakeFiles/stroustrup.dir/7-pointers-arrays-references/restrictions-pointers.cpp.o	6efeaeaafa16ef04
+0	965	1697739948158928460	CMakeFiles/stroustrup.dir/8-structures-unions-enums/enum-season.cpp.o	80d1e905d9469a39
